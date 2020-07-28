@@ -17,11 +17,11 @@ Arkadaşlar merhaba bu haftaki ödevimizde daha önce yapmış olduğumuz todo-a
 - Yeni soru eklendiğinde ve güncellendiğinde "https://www.npmjs.com/package/vue-notification" ile kullanıcıya işlemin yapıldığını notification gösteriniz.(Bonus)
 
 ## Yardımcı Kaynaklar
--https://logaretm.github.io/vee-validate/#usage
--https://vuejs.org/v2/guide/custom-directive.html
--https://router.vuejs.org/
-(https://github.com/Istanbul-Vuejs-Bootcamp/todo-app)
--Hafta içi yaptığımız tüm örnekler.... 
+- https://logaretm.github.io/vee-validate/#usage
+- https://vuejs.org/v2/guide/custom-directive.html
+- https://router.vuejs.org/
+- (https://github.com/Istanbul-Vuejs-Bootcamp/todo-app)
+- Hafta içi yaptığımız tüm örnekler.... 
 
 
 # ARKADAŞLAR ÖDEV AĞIR YADA ZOR DEĞİL ZATEN DAHA ÖNCE YAPTINIZ VE İLGİLİ ÖDEVİN ÇÖZÜMÜNÜ BERABER YAPTIK SADECE BAZI REVİZELER YAPACAKSINIZ. LÜTFEN SAKİN VE BASİT DÜŞÜNÜN... 

@@ -3,9 +3,10 @@
 Arkadaşlar merhaba bu haftaki ödevimizde daha önce yapmış olduğumuz todo-app üzerine vue-router ve directive ve vuex yada event bus kullanarak ödevi revize edeceğiz,
 
 ![Önceki Ödevin Görseli](https://i.ibb.co/JjGsCnf/ezgif-com-video-to-gif.gif)
-(https://github.com/Istanbul-Vuejs-Bootcamp/todo-app)
+
 
 # DETAYLAR
+- Projeye buradan erişebilir yada kendi reponuzdan çekebilirsiniz. (https://github.com/Istanbul-Vuejs-Bootcamp/todo-app)
 - Projeye vue-router dahil ediniz
 - Formu ve listeyi farklı route'larda göstereceğiz. Ana safa yani default path'de ("/") ekli veri listesi gelmelidir.
 - Yeni eklemek için "/add-new" route kullılmalıdır.

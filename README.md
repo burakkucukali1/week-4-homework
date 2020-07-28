@@ -20,7 +20,7 @@ Arkadaşlar merhaba bu haftaki ödevimizde daha önce yapmış olduğumuz todo-a
 - https://logaretm.github.io/vee-validate/#usage
 - https://vuejs.org/v2/guide/custom-directive.html
 - https://router.vuejs.org/
-- (https://github.com/Istanbul-Vuejs-Bootcamp/todo-app)
+- https://github.com/Istanbul-Vuejs-Bootcamp/todo-app
 - Hafta içi yaptığımız tüm örnekler.... 
 
 

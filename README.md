@@ -1,6 +1,6 @@
 # week4-homework
 
-Arkadaşlar merhaba bu haftaki ödevimizde daha önce yapmış olduğumuz todo-app üzerine vue-router ve directive ve vuex yada event bus kullanarak ödevi revize edeceğiz,
+Arkadaşlar merhaba bu haftaki ödevimizde daha önce yapmış olduğumuz todo-app üzerine vue-router ve directive ile birlikte ek olarak vuex kullanarak ödevi revize edeceğiz,
 
 ![Önceki Ödevin Görseli](https://i.ibb.co/JjGsCnf/ezgif-com-video-to-gif.gif)
 
